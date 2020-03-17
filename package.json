@@ -1,0 +1,13 @@
+{
+  "name": "recursive-dir-sync",
+  "version": "1.0.0",
+  "description": "Properly syncing directories.. ",
+  "main": "index.js",
+  "repository": "http://www.github.com/MarkoMackic/recursive-dir-sync",
+  "author": "Marko Mackic <markomackic@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "fs-extra": "^8.1.0"
+  }
+}
